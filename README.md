@@ -7,7 +7,9 @@ Simple designed expert system, uses a set of form to collect client data, then t
 Screens
 ====================
 Main Screen
+```
 ![Main Screen](/screens/1.PNG "Main Screen")
+```
 
 Personal Details
 ![Personal Details](/screens/2.PNG "Personal Details")
