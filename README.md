@@ -6,22 +6,28 @@ Simple designed expert system, uses a set of form to collect client data, then t
   
 Screens
 ====================
-Main Screen<\br>
-![Main Screen](/screens/1.PNG "Main Screen")<\br>
+Main Screen
+====================
+![Main Screen](/screens/1.PNG "Main Screen")
 
-Personal Details<\br>
-![Personal Details](/screens/2.PNG "Personal Details")<\br>
+Personal Details
+====================
+![Personal Details](/screens/2.PNG "Personal Details")
 
-Financial Details<\br>
-![Financial Details](/screens/3.PNG "Financial Details")<\br>
+Financial Details
+====================
+![Financial Details](/screens/3.PNG "Financial Details")
 
 Decision Load Screen<\br>
-![Decision Load Screen](/screens/5.PNG "Decision Load Screen")<\br>
+![Decision Load Screen](/screens/5.PNG "Decision Load Screen")
 
-Decision Screen <\br>
-![Decision Screen](/screens/4.PNG "Decision Screen")<\br>
+Decision Screen
+====================
+![Decision Screen](/screens/4.PNG "Decision Screen")
 
-![Decision Screen](/screens/6.PNG "Decision Screen")<\br>
+====================
+![Decision Screen](/screens/6.PNG "Decision Screen")
 
-Income/Consume comparison<\br>
-![Decision Screen](/screens/7.PNG "Decision Screen")<\br>
+Income/Consume comparison
+====================
+![Decision Screen](/screens/7.PNG "Decision Screen")
