@@ -18,7 +18,8 @@ Financial Details
 ====================
 ![Financial Details](/screens/3.PNG "Financial Details")
 
-Decision Load Screen<\br>
+Decision Load Screen
+====================
 ![Decision Load Screen](/screens/5.PNG "Decision Load Screen")
 
 Decision Screen
