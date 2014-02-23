@@ -1,0 +1,65 @@
+#nav-toolbar {
+    /* Workaround for RT-14248 */;
+    -fx-border-image-slice: 0 0 0 0 fill;
+    -fx-border-image-width: 0 0 0 0;
+    -fx-border-image-repeat: stretch;
+  /*  -fx-background-image: url("images/mid-bar-right.png");
+    -fx-background-size: 100% 100%; */
+    -fx-padding: 0px 0px 1px 0px;
+    -fx-spacing: 0;
+}
+#nav-toolbar .nav-button {
+    -fx-background-color: null;
+    -fx-background-radius: 0;
+    -fx-background-insets: 0;
+    -fx-padding: 5px 8px 6px 8px;
+    -fx-border-color: transparent #6e737d transparent rgba(255,255,255,0.3) , transparent rgba(255,255,255,0.3) transparent transparent;
+    -fx-border-insets: 0, 1;
+}
+#nav-toolbar .nav-button:hover {
+    -fx-background-color: rgba(255,255,255,0.4);
+}
+
+.breadcrumb-bar .nav-button {
+    -fx-padding: 7px;
+    -fx-border-color: null;
+    -fx-border-insets: 0;
+    -fx-border-image-source: url("images/crumb.png");
+    -fx-border-image-slice: 1 10 1 10 fill;
+    -fx-border-image-width: 1 10 1 10;
+    -fx-border-image-repeat: stretch;
+}
+.breadcrumb-bar .nav-button:hover {
+    -fx-background-color: null;
+    -fx-border-image-source: url("images/crumb-hover.png");
+}
+.breadcrumb-bar .only-nav-button {
+    -fx-border-image-width: 0 0 0 0;
+    -fx-border-image-repeat: stretch;
+    -fx-border-image-source: url("images/crumb-selected.png");
+    -fx-border-color: transparent #6e737d transparent rgba(255,255,255,0.3) , transparent rgba(255,255,255,0.3) transparent transparent;
+    -fx-border-insets: 0 0 1 0, 1;
+}
+.breadcrumb-bar .only-nav-button:hover {
+    -fx-border-image-source: url("images/crumb-hover.png");
+    -fx-border-image-insets: 0 0 1 0;
+}
+.breadcrumb-bar .first-nav-button {
+    -fx-border-image-insets: 0 -5 1 0;
+    -fx-border-image-width: 0 10 0 0;
+    -fx-border-image-repeat: stretch;
+}
+.breadcrumb-bar .middle-nav-button {
+    -fx-border-image-insets: 0 -5 1 -4;
+}
+.breadcrumb-bar .last-nav-button {
+    -fx-border-image-insets: 0 0 0 -4;
+    -fx-border-image-width: 0 0 0 10;
+    -fx-border-image-repeat: stretch;
+    -fx-border-image-source: url("images/crumb-selected.png");
+    -fx-border-color: transparent #6e737d transparent transparent , transparent rgba(255,255,255,0.2) transparent transparent;
+    -fx-border-insets: 0 0 1 0, 1;
+}
+.breadcrumb-bar .last-nav-button:hover {
+    -fx-border-image-source: url("images/crumb-selected.png");
+}

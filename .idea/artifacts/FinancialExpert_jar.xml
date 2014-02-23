@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinancialExpert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinancialExpert_jar</output-path>
+    <root id="archive" name="FinancialExpert.jar">
+      <element id="module-output" name="FinancialExpert" />
+    </root>
+  </artifact>
+</component>

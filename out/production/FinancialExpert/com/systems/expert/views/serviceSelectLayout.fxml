@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="420.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.systems.expert.controllers.ServiceSelectController">
+<children><Pane maxWidth="-Infinity" minWidth="-Infinity" prefWidth="600.0" style="-fx-background-color: white;" /><Button fx:id="creditButton" layoutX="225.0" layoutY="139.0" mnemonicParsing="false" onAction="#handleCreditAction" prefHeight="50.0" prefWidth="150.0" style="-fx-background-radius: 30;" text="Credit" />
+</children>
+</AnchorPane>
